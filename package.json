@@ -1,0 +1,14 @@
+{
+  "name": "rate-limiter-project",
+  "version": "1.0.0",
+  "description": "A simplified in-memory rate limiter using a fixed window counter algorithm.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
